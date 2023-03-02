@@ -1,5 +1,6 @@
-### Hi
-## My name is Martin Navrátil
+## Hi
+### My name is Martin Navrátil
+**I write in 🦀rust🦀🦀**
 <img align="left " alt="TrivariAlthea Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinnav&show_icons=true&title_color=fff&icon_color=3FB950&text_color=9f9f9f&bg_color=151515&count_private=true" />
 <!--
 **MartinNav/MartinNav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
