@@ -31,9 +31,7 @@
  <img src="https://img.shields.io/badge/OS-Ubuntu Mate-informational?style=for-the-badge&logoColor=white&color=darkgreen" />
 </p>
 
-<p align="center">
-    <img width="600px" src="https://metrics.lecoq.io/MartinNav?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=200&people.identicons=false&people.identicons.hide=false&people.size=35&people.types=followers&people.shuffle=false&config.timezone=Cairo" />
-</p>
+
 
 <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
