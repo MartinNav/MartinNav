@@ -8,6 +8,11 @@
 <img align="left " alt="MartinNav Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinnav&show_icons=true&title_color=fff&icon_color=3FB950&text_color=9f9f9f&bg_color=151515&count_private=true" />
 <img align="left " alt="MartinNav Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinNav&theme=blue-green"> 
 </p>
+
+<p align="center">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MartinNav0&theme=react-dark"/>
+</p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logoColor=white&color=orange" />
 <img src="https://img.shields.io/badge/Language-Csharp-informational?style=for-the-badge&logoColor=white&color=blue" />
