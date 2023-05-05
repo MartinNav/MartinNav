@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MartinNav0&theme=react-dark"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MartinNav&theme=react-dark"/>
 </p>
 
 <p align="center">
