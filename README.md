@@ -9,9 +9,7 @@
 <img align="left " alt="MartinNav Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinNav&theme=blue-green"> 
 </p>
 
-<p align="center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MartinNav&theme=react-dark"/>
-</p>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/Language-Rust-informational?style=for-the-badge&logoColor=white&color=orange" />
