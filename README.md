@@ -7,6 +7,7 @@
 <p align="center">
 <img align="left " alt="MartinNav Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinnav&show_icons=true&title_color=fff&icon_color=3FB950&text_color=9f9f9f&bg_color=151515&count_private=true" />
 <img align="left " alt="MartinNav Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinNav&theme=blue-green"> 
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinNav&theme=dark&custom_title=streak-stats&hide_border=false&layout=compact" />
 </p>
 
 
