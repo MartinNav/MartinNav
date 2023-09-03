@@ -32,7 +32,7 @@
 
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=github,git,rust,js,c,neovim,zig,php,py,tauri,kotlin" />
+ <img src="https://skillicons.dev/icons?i=github,git,rust,js,c,neovim,zig,php,py,tauri,kotlin,go" />
 </p>
 
 <p align="center">
