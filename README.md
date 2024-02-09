@@ -3,7 +3,7 @@
 </p>
 <h1>Hi</h1>
 <h2> My name is Martin Navrátil</h2>
-<p>I am 19 yo developer and <strong>I ❤️ programming in 🦀rust🦀</strong></p>
+<p>I am 20 yo developer and <strong>I ❤️ programming in 🦀rust🦀</strong></p>
 <p align="center">
 <img align="left " alt="MartinNav Github Stats" src="https://github-readme-stats.vercel.app/api?username=martinnav&show_icons=true&title_color=fff&icon_color=3FB950&text_color=9f9f9f&bg_color=151515&count_private=true" />
 <img align="left " alt="MartinNav Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinNav&theme=blue-green"> 
