@@ -28,8 +28,8 @@
   -->
 </p>
 <p align="center">
- <img src="https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logoColor=white&color=darkgreen" />
- <img src="https://img.shields.io/badge/OS-Ubuntu Mate-informational?style=for-the-badge&logoColor=white&color=darkgreen" />
+ <!--<img src="https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logoColor=white&color=darkgreen" />-->
+ <img src="https://img.shields.io/badge/OS-Fedora-informational?style=for-the-badge&logoColor=white&color=darkgreen" />
 </p>
 
 
