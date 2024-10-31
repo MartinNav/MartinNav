@@ -22,7 +22,6 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-NeoVim-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
- <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
  <!--
   <img src="https://img.shields.io/badge/Editor-VisualStudio-informational?style=for-the-badge&logoColor=white&color=darkcyan" />
   -->
